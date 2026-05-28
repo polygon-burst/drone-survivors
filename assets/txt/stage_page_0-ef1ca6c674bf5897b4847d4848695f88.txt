@@ -1,0 +1,13 @@
+TRAIN JOB
+
+  The setting is a random planet in a random solar system, where 
+drones from autonomous mining facilities of the companies deepSPACE 
+and ShengLong (originating from the defunct planet Terra) are 
+battling each other.
+
+  Your goal as a Vogon Administrator Drone is to collect so called 
+'artifacts' left behind by an ancient civilization, and solve any 
+problems that may arise along the way.
+
+
+
