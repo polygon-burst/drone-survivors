@@ -12,6 +12,8 @@ body {
 
 p { padding: 4px 0; }
 
+a { color: #9fd3ff; }
+
 button {
   height: 36px;
   border: none;
