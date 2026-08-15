@@ -14,7 +14,9 @@ p { padding: 4px 0; }
 
 a { color: #9fd3ff; }
 
-a:visited { color: #7fa9cc; }
+a:hover { color: #9fd3ff; }
+
+a:visited { color: #9fd3ff; }
 
 button {
   height: 36px;
