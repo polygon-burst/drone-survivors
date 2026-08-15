@@ -12,12 +12,14 @@ body {
 
 p { padding: 4px 0; }
 
-a { color: #9fd3ff; }
+a { color: #7fa9cc; }
 
-a:visited { color: #506980; }
+a:hover { color: #9fd3ff; }
+
+a:visited { color: #5f7f99; }
 
 button {
-  height: 32px;
+  height: 36px;
   border: none;
   border-radius: 4px;
   margin: 4px 0;
