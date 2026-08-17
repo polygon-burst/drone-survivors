@@ -1,0 +1,19 @@
+GAME CONTROLS
+
+Movement: 
+  Keyboard Arrow Keys / Controller DPad, Analog Stick
+
+Emulate Magnet pickup (with some healing):
+  Keyboard W, Enter Key / Controller A Button
+  
+Emulate Freeze pickup:    
+  Keyboard S, Backspace Key / Controller B Button
+  
+Rotate left:  
+  Keyboard A Key / Controller X, L1 Button
+  
+Rotate right:  
+  Keyboard D Key / Controller Y, R1 Button
+  
+Overview:  
+  Keyboard Escape, Space Key / Controller Start, Back Button
