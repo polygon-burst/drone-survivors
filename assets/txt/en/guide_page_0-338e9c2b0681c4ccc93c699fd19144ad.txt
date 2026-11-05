@@ -1,0 +1,17 @@
+MAIN CONTROLS
+
+Mouse Left Button: Select, Increase
+
+Mouse Right Button: Decrease
+
+Keyboard Arrow Keys / Controller DPad, Analog Stick: 
+  Step, Increase/Decrease
+
+Keyboard W, D, Enter Key / Controller A, X, R1 Button: 
+  Ok, Increase
+
+Keyboard S, A, Backspace Key / Controller B, Y, L1 Button: 
+  Cancel, Decrease
+
+Keyboard Escape, Space Key / Controller Start, Back Button: 
+  Settings, Back

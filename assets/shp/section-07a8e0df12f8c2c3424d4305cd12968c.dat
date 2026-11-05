@@ -1,0 +1,6 @@
+# POINTER
+10.0F,10.0F
+0.0F,0.0F , 0.0F,-4.8F , 1.5F,-3.4F , 3.5F,-3.4F
+
+# COLORS
+GRAY, 0x8 : WHITE, 0xf

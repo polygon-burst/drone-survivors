@@ -1,0 +1,8 @@
+# PYLON
+1, 10.0F, 10.0F
+-5.0F,2.0F , -0.6F,5.0F , 2.5F,2.0F , 2.5F,-2.0F , -0.6F,-5.0F , -5.0F,-2.0F
+
+# COLORS
+WHITE, 0xf : WHITE, 0x6 : DARKGRAY, 0x8 : GRAY, 0x8 : WHITE, 0xf : DARKGRAY, 0xc
+RED, 0xd : GREEN, 0xe : BLUE, 0xe : WHITE, 0xe
+

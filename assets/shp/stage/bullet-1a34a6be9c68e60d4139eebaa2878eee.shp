@@ -1,0 +1,20 @@
+# LIGHT
+7, 22.0F, 10.0F, 0.0F
+
+# MEDIUM
+7, 16.0F, 16.0F, 0.0F
+
+# HEAVY
+7, 14.0F, 30.0F, 0.0F
+
+# PULSE
+0.1F
+
+# FILL_COLORS
+BLUE, 0xf : RED, 0xf : DARKGRAY, 0xf
+BLUE, 0xc : RED, 0xc : DARKGRAY, 0xf
+
+# OUTLINE_COLORS
+DARKBLUE, 0xf : DARKRED, 0xf : WHITE, 0xf
+DARKBLUE, 0xf : DARKRED, 0xf : WHITE, 0xb
+        

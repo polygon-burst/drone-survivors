@@ -1,0 +1,9 @@
+# FILL_COLORS
+DARKBLUE, 0xe : DARKRED, 0xe : DARKGRAY, 0xe : DARKGREEN, 0xe
+      
+# OUTLINE_COLORS
+BLUE, 0xf : RED, 0xf : WHITE, 0xf : GREEN, 0xf
+
+# DEBUG_COLORS
+BLUE, 0x8 : RED, 0x8 : WHITE, 0x8 : GREEN, 0x8
+      
